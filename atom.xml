@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wiki.rosf.cn/"/>
-  <updated>2019-11-30T17:52:39.772Z</updated>
+  <updated>2019-12-02T01:05:43.769Z</updated>
   <id>http://wiki.rosf.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://wiki.rosf.cn/index/"/>
     <id>http://wiki.rosf.cn/index/</id>
     <published>2019-12-01T23:13:25.184Z</published>
-    <updated>2019-11-30T17:52:39.772Z</updated>
+    <updated>2019-12-02T01:05:43.769Z</updated>
     
     <content type="html"><![CDATA[<hr><hr><h3 id="近期更新："><a href="#近期更新：" class="headerlink" title="近期更新："></a>近期更新：</h3><p><strong><code>职业（包括法系）开放致命涂毒效果</code></strong></p><p><strong><code>开放技能神属性、技能无锁定全屏攻击</code></strong></p><p><strong><code>神属性：无视所有属性克制和修整，100%伤害</code></strong></p><p><strong><code>很多大范围AOE减CD，还是神属性哦（例：暴风雪能打水属性怪）</code></strong></p><p><strong><code>【野外BOSS】直接掉落商城C点、方便上手</code></strong></p><p><strong><code>创建人物赠送【新人套装丨功能手册丨方便新手上路】</code></strong></p><p><strong><code>所有职业强化，技能魔改，没有弱势职业PVE</code></strong></p><p><strong><code>所有技能可以暴击，吃暴击伤害加成，暴击率CRI/4</code></strong></p><p><strong><code>所有卡片和装备开放掉落和制作</code></strong></p><p><strong><code>二十多个团队副本，让朋友们一起肝肝肝</code></strong></p><p><strong><code>GM定期举办活动，奖励很丰富</code></strong></p><p><strong><code>本服保证公平公正长期开放，不会烟花内幕</code></strong></p><hr><p><strong>如果有不足或不满意之处一定要联系我们。</strong></p><p><strong>感谢大家对【蕾神-Ro】的支持。</strong></p><p><strong>你们的意见是我们前进最好的动力。</strong></p><hr><p><strong>【蕾神-Ro】论坛：<a href="http://rosf.cn/" target="_blank" rel="noopener">rosf.cn</a></strong></p><p><strong>【蕾神-Ro】QQ群：<a href="https://jq.qq.com/?_wv=1027&k=52bI0E3" target="_blank" rel="noopener">627699539</a></strong></p><p><strong>【蕾神-Ro】GMQQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=753599173&site=qq&menu=yes" target="_blank" rel="noopener">753599173</a></strong></p>]]></content>
     
@@ -358,6 +358,23 @@
   </entry>
   
   <entry>
+    <title>【蕾神-Ro】</title>
+    <link href="http://wiki.rosf.cn/%F0%9F%8C%BC%E8%A3%85%E5%A4%87%E8%AF%A6%E8%A7%A3/1/"/>
+    <id>http://wiki.rosf.cn/%F0%9F%8C%BC%E8%A3%85%E5%A4%87%E8%AF%A6%E8%A7%A3/1/</id>
+    <published>2019-11-25T18:00:00.000Z</published>
+    <updated>2019-11-30T18:37:03.338Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="🌼装备详解" scheme="http://wiki.rosf.cn/categories/%F0%9F%8C%BC%E8%A3%85%E5%A4%87%E8%AF%A6%E8%A7%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>【蕾神-Ro】明王诀</title>
     <link href="http://wiki.rosf.cn/%F0%9F%8C%88%E4%BF%AE%E4%B8%BA%E5%8A%9F%E6%B3%95/%E6%98%8E%E7%8E%8B%E8%AF%80/"/>
     <id>http://wiki.rosf.cn/%F0%9F%8C%88%E4%BF%AE%E4%B8%BA%E5%8A%9F%E6%B3%95/%E6%98%8E%E7%8E%8B%E8%AF%80/</id>
@@ -379,23 +396,6 @@
     
     
       <category term="🌈修为功法" scheme="http://wiki.rosf.cn/categories/%F0%9F%8C%88%E4%BF%AE%E4%B8%BA%E5%8A%9F%E6%B3%95/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>【蕾神-Ro】</title>
-    <link href="http://wiki.rosf.cn/%F0%9F%8C%BC%E8%A3%85%E5%A4%87%E8%AF%A6%E8%A7%A3/1/"/>
-    <id>http://wiki.rosf.cn/%F0%9F%8C%BC%E8%A3%85%E5%A4%87%E8%AF%A6%E8%A7%A3/1/</id>
-    <published>2019-11-25T18:00:00.000Z</published>
-    <updated>2019-11-30T18:37:03.338Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="🌼装备详解" scheme="http://wiki.rosf.cn/categories/%F0%9F%8C%BC%E8%A3%85%E5%A4%87%E8%AF%A6%E8%A7%A3/"/>
     
     
   </entry>
@@ -451,23 +451,6 @@
   
   <entry>
     <title>【蕾神-Ro】</title>
-    <link href="http://wiki.rosf.cn/%F0%9F%93%8C%E5%85%B6%E4%BB%96/1%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://wiki.rosf.cn/%F0%9F%93%8C%E5%85%B6%E4%BB%96/1%20-%20%E5%89%AF%E6%9C%AC/</id>
-    <published>2019-11-25T18:00:00.000Z</published>
-    <updated>2019-11-30T18:37:28.648Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="📌其他" scheme="http://wiki.rosf.cn/categories/%F0%9F%93%8C%E5%85%B6%E4%BB%96/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>【蕾神-Ro】</title>
     <link href="http://wiki.rosf.cn/%F0%9F%93%8C%E5%85%B6%E4%BB%96/1/"/>
     <id>http://wiki.rosf.cn/%F0%9F%93%8C%E5%85%B6%E4%BB%96/1/</id>
     <published>2019-11-25T18:00:00.000Z</published>
@@ -499,6 +482,31 @@
         &lt;ol&gt;
 &lt;li&gt;&lt;h4 id=&quot;独特的炼丹系统&quot;&gt;&lt;a href=&quot;#独特的炼丹系统&quot; class=&quot;headerlink&quot; title=&quot;独特的炼丹系统&quot;&gt;&lt;/a&gt;独特的炼丹系统&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;丹药分为修为丹药和特效丹药&lt;/strong&gt;&lt;/li&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="🌈修为功法" scheme="http://wiki.rosf.cn/categories/%F0%9F%8C%88%E4%BF%AE%E4%B8%BA%E5%8A%9F%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【蕾神-Ro】修为详解</title>
+    <link href="http://wiki.rosf.cn/%F0%9F%8C%88%E4%BF%AE%E4%B8%BA%E5%8A%9F%E6%B3%95/%E4%BF%AE%E4%B8%BA%E8%AF%A6%E8%A7%A3/"/>
+    <id>http://wiki.rosf.cn/%F0%9F%8C%88%E4%BF%AE%E4%B8%BA%E5%8A%9F%E6%B3%95/%E4%BF%AE%E4%B8%BA%E8%AF%A6%E8%A7%A3/</id>
+    <published>2019-11-25T17:00:00.000Z</published>
+    <updated>2019-11-26T14:12:51.256Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><h4 id="玩家修炼的功法，炼器，炼丹等级，法力的总和数据，就是修为"><a href="#玩家修炼的功法，炼器，炼丹等级，法力的总和数据，就是修为" class="headerlink" title="玩家修炼的功法，炼器，炼丹等级，法力的总和数据，就是修为"></a>玩家修炼的功法，炼器，炼丹等级，法力的总和数据，就是修为</h4></li><li><h4 id="大多数强力装备，附加属性都会和修为等级有关"><a href="#大多数强力装备，附加属性都会和修为等级有关" class="headerlink" title="大多数强力装备，附加属性都会和修为等级有关"></a>大多数强力装备，附加属性都会和修为等级有关</h4></li><li><h4 id="修为等级简写：xl"><a href="#修为等级简写：xl" class="headerlink" title="修为等级简写：xl"></a>修为等级简写：xl</h4></li></ul><img src="https://ro-1300773921.cos.ap-shanghai.myqcloud.com/bbs/20191126220810.jpg" style="margin-left:20px" height="100"><hr><img src="https://ro-1300773921.cos.ap-shanghai.myqcloud.com/bbs/20191126220830.png" style="margin-left:20px" height="100"><hr><h4 id="强化卡片中xl就是修为等级"><a href="#强化卡片中xl就是修为等级" class="headerlink" title="强化卡片中xl就是修为等级"></a>强化卡片中xl就是修为等级</h4><img src="https://ro-1300773921.cos.ap-shanghai.myqcloud.com/bbs/20191126220850.png" style="margin-left:20px" height="100">]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;h4 id=&quot;玩家修炼的功法，炼器，炼丹等级，法力的总和数据，就是修为&quot;&gt;&lt;a href=&quot;#玩家修炼的功法，炼器，炼丹等级，法力的总和数据，就是修为&quot; class=&quot;headerlink&quot; title=&quot;玩家修炼的功法，炼器，炼丹等级，法力的总和数据，就是修
       
     
     </summary>
